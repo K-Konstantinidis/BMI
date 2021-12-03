@@ -1,5 +1,5 @@
 # BMI
-A very simple c program to calculate your body mass index (BMI).
+A very simple C project to calculate your body mass index (BMI).
 
 This is a very simple project. At 1st you insert your height. After that you insert your weight.
 
